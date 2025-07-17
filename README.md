@@ -10,7 +10,7 @@ The design focuses on creating a seamless, secure, and user-friendly signup/logi
 ✅ Secure user data handling
 
 🖼️ Screenshots
-Screenshots of the design can be found in the screenshots file.
+Screenshots of the design can be found in the Mobile SignUp Task1.png file.
 
 🎥 Demo Video
 🔗 [Watch on LinkedIn](https://www.linkedin.com/posts/manoshankari-v-b937b328b_codsoft-internship-uiux-activity-7351410726583881728-MaKH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZrWd8B-CWCkhnC9hpnNui7qo7ytwRk5cE)
